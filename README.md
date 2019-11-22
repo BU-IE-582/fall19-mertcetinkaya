@@ -20,3 +20,14 @@
 [Here](https://github.com/BU-IE-582/fall19-mertcetinkaya/tree/master/Data_Second_HW) you can reach the data for the second homework.
 
 
+#Homework 3
+
+[Here](IE582_Fall2019_Homework3.pdf) is the questions for the third homework.
+
+[Here](MertCetinkaya_2018702012_HW3.html) is my html page for the third homework.
+
+[Here](MertCetinkaya_2018702012_HW3.ipynb) is my notebook for the third homework.
+
+[Here](https://github.com/BU-IE-582/fall19-mertcetinkaya/tree/master/Data_Third_HW) you can reach the data for the third homework.
+
+
