@@ -39,6 +39,6 @@
 
 [Here](MertCetinkaya_2018702012_HW4.ipynb) is my notebook for the fourth homework.
 
-I prefered not to load my data because the data was large. However, the data is the same with the data used in the first homework, but an updated version of it according to December 2019.
+I preferred not to load my data because the data was large. However, the data is the same with the data used in the first homework, but an updated version of it according to December 2019.
 
 
