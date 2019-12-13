@@ -31,3 +31,14 @@
 [Here](https://github.com/BU-IE-582/fall19-mertcetinkaya/tree/master/Data_Third_HW) you can reach the data for the third homework.
 
 
+#Homework 4
+
+[Here](IE582_Fall19_Homework4.pdf) is the questions for the fourth homework.
+
+[Here](MertCetinkaya_2018702012_HW4.html) is my html page for the fourth homework.
+
+[Here](MertCetinkaya_2018702012_HW4.ipynb) is my notebook for the fourth homework.
+
+I prefered not to load my data because the data was large. However, the data is the same with the data used in the first homework, but an updated version of it according to December 2019.
+
+
