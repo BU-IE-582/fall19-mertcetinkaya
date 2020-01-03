@@ -42,3 +42,11 @@
 I preferred not to load my data because the data was large. However, the data is the same with the data used in the first homework, but an updated version of it according to December 2019.
 
 
+#Project
+
+[Here](Group3_Project_Code.html) is our html page for the codes of the project.
+
+[Here](Group3_Project_Code.ipynb) is our notebook for the codes of the project.
+
+
+
