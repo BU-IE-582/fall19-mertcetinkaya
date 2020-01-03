@@ -55,5 +55,7 @@ I preferred not to load my data because the data was large. However, the data is
 
 [Here](Group3_Project_Code.ipynb) is our notebook for the codes of the project.
 
+The data is the same with the data used in the first homework, but an updated version of it according to the end of fall 19 semester.
+
 
 
