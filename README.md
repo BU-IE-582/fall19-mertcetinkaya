@@ -45,6 +45,12 @@ I preferred not to load my data because the data was large. However, the data is
 #Project
 
 
+[Here](IE582_Fall19_Project.pdf) is the questions for the project.
+
+[Here](Group3_Project_Report.html) is our html page for the report of the project.
+
+[Here](Group3_Project_Report.ipynb) is our notebook for the report of the project.
+
 [Here](Group3_Project_Code.html) is our html page for the codes of the project.
 
 [Here](Group3_Project_Code.ipynb) is our notebook for the codes of the project.
